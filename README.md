@@ -5,14 +5,18 @@
 - Python
 - Flask
 - SocketIo
+- JavaScript
+- Html
+- Css
 
 ## Features
 
 User can choose his name, change it anytime, and post any text message to the chat
 
 ## Install
+1) Install Python
 
-Run the following commands to bootstrap your environment
+2) Run the following commands to bootstrap your environment
 ```   
 git clone https://github.com/YaroslavOvchinnikov/test_task_Datagrok
 cd test_task_Datagrok

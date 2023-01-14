@@ -6,7 +6,7 @@
 - Flask
 - SocketIo
 
-##Features
+## Features
 
 User can choose his name, change it anytime, and post any text message to the chat
 
